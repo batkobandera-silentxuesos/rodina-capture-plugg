@@ -1,1 +1,1 @@
-14:11:59|MSK|virtual|555
+14:33:05|MSK|square|777
